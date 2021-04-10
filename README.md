@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mridul-Rajbhar
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mridulrajbhar12@gmail.com
 
 <!---
