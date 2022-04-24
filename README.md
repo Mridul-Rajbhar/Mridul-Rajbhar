@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mridul-Rajbhar
-- 👀 I’m interested in Game Programming
+- 👋 Hi, I’m @Mridul-Rajbhar, BE Computer Engineering, Expected 2022 Graduate
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me mridulrajbhar12@gmail.com
 
